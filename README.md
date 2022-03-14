@@ -1,6 +1,6 @@
 
 ## 👋 Hi, I’m Salomao Macie Jr.
-###### 👀 I’m interested in solving engineering problems to help my world development
+###### 👀 I’m interested in solving engineering problems to help world development
 ###### 🌱 I’m currently learning to code using multiple kind of programming languages
 ###### 💞️ I’m looking to collaborate on world health and sustainable development projects
 
